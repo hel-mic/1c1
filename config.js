@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Ánh mắt nung chảy trái tim?',
     btnYes: '<3 Yêu anh G O W 〢Sad™〢',
     btnNo: '🤨Hâm à',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3?',
     btnReply: 'Gửi cho G O W 〢Sad™〢',
     reply: 'Yêu anh',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
